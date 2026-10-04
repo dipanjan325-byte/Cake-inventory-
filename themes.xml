@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.CakeShop" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#B5194F</item>
+    </style>
+</resources>
